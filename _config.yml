@@ -1,0 +1,5 @@
+title: Voidstack
+baseurl: "" 
+url: "https://v0idstack.github.io"
+theme: jekyll-theme-minimal
+markdown: kramdown
